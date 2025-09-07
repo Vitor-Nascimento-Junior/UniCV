@@ -1,0 +1,23 @@
+
+Coerência: é marcada em relação ao texto como um todo. A relação que se estabelece entre os parágrafos e o que está explicitado o contexto, seja ele com as informações internas ou externas do texto em si.
+
+Tipos de coerência:
+
+Coerência sintática;
+	Eis o princípio básico da sintaxe: escrever frases, orações e períodos na ordem direta. Ou seja, a coerência sintática é utilizada para evitar duplo sentido e evita a ambiguidade.
+
+
+Coerência semântica;
+	A Semântica é a área da Linguística que analisa o significado das palavras, em termos gerais, é ela a responsável pelas relações entre os termos (signos) e os seus complementos (referentes). Logo, a coerência semântica é estabelecida quando os elementos do texto estão dispostos corretamente no que diz respeito ao sentido.
+
+Coerência temática;
+	O princípio da coerência temática é o famoso “não fugir do tema”. Comece e termine o texto com a mesma ideia, sem viajar pelas infinitas possibilidades.
+
+Coerência pragmática;
+	Pragmática é a parte da Linguística que estuda a relação entre o emissor e o receptor, ou ainda o interlocutor e a influência do contexto comunicacional. Por exemplo, quando você faz uma pergunta é natural que haja uma resposta, se essa expectativa não ocorrer temos aqui a falta de coerência pragmática.
+
+Coerência estilística;
+	O estilo de um texto é aquilo que você escolhe para construir sua produção, ou seja, é o uso da variedade linguística seja a padrão ou não. Seria incoerente começar o texto utilizando a linguagem coloquial e terminar usando a norma culta.
+
+Coerência genérica;
+	É a escolha adequada do gênero textual. Se você começou escrevendo um poema, não pode terminar escrevendo uma narrativa de ficção, etc.

@@ -1,0 +1,52 @@
+Expressão numérica.
+
+A expressão numéria são conjuntos de números matemáticos onde a ordem de resolução é preestabelecida.
+
+Dando um exemplo de expressão numérica adquirimos uma questão:
+
+Analize a questão:
+E=396:{2.[26-5.(2+3)5]}
+
+Perceba que numa expressão numérica começamos somando os numeros dentro das parenteses:
+E=396:{2.[26-5.(5)5]}
+
+Logo em seguida iremos multiplicar o resultado anterior com o ultimo numero dentro do couchete:
+E=396:{2.[26-5.25]}
+
+Assim com o resultado vamos subtrair:
+E=396:{2.[26-125]}
+
+Com o resultado vamos multiplicar:
+E=396:{2.-99}
+
+E assim finalizando multiplicando:
+E=396:{-198}
+
+E= -2
+
+Siga os próximos exemplos:
+
+1)nesse exemplo é seguencial.
+-15+75-33-12
+60-33-12
+27-12
+15
+2)nesse inicia com a multiplicação depois divisão, assim somando os dois primeiros numeros e por fim subtraindo.
+-15x3-135+80:5
+-45-135+80:5
+-45-135+16
+-180+16
+-164
+3)nesse caso vamos fazer mesmo que a primeira explicação. porem vamos iniciar com a divisão dos valores:
+-[3x(3+4)-5]:[2x(3-1)+4]x[4x(5-3)+3]
+-[3x7-5]:[2x2+4]x[4x2+3]
+-[21-5]:[4+4]x[8+3]
+-16:8x11
+-2x11
+-22
+4)
+2x(3+5)²-4x(2-1)³
+2x8²-4x1³
+2x64-4x1
+128-4
+124
